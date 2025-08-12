@@ -294,15 +294,7 @@ genetic_algorithm_framework/
 ├── ga_framework.py          # Main framework code
 ├── requirements.txt         # Dependencies
 ├── README.md               # This file
-├── examples/
-│   ├── function_optimization.py
-│   ├── binary_optimization.py
-│   ├── custom_problem.py
-│   └── parameter_tuning.py
-└── tests/
-    ├── test_selection.py
-    ├── test_crossover.py
-    └── test_mutation.py
+
 ```
 
 ## Getting Help
